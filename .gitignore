@@ -1,0 +1,5 @@
+.vscode
+serverside/bin
+serverside/private
+clientside/bin
+clientside/results
