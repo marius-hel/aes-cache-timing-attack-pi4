@@ -1,3 +1,8 @@
+# Authors
+[Thomas R.](https://github.com/thomasrPPS)
+[Gaspard M.](https://github.com/qsdaze01)
+[Marius H.](https://github.com/marius-hel)
+
 # Introduction
 This repository is an implementation of the attack described in *Cache-timing attacks on AES* by Daniel J. Bernstein. Most of the code used here comes from his work in this paper.
 
