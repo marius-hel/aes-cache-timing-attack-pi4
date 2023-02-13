@@ -1,7 +1,10 @@
 # Authors
-[Thomas R.](https://github.com/thomasrPPS)
-[Gaspard M.](https://github.com/qsdaze01)
-[Marius H.](https://github.com/marius-hel)
+[Thomas R.](https://github.com/thomasrPPS)<br>
+[Gaspard M.](https://github.com/qsdaze01)<br>
+[Marius H.](https://github.com/marius-hel)<br>
+
+# Additional content
+[Hand implementation of AES for educational purposes](https://github.com/qsdaze01/aes_algorithm)
 
 # Introduction
 This repository is an implementation of the attack described in *Cache-timing attacks on AES* by Daniel J. Bernstein. Most of the code used here comes from his work in this paper.
