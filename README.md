@@ -4,7 +4,8 @@
 [Marius H.](https://github.com/marius-hel)<br>
 
 # Additional content
-[Hand implementation of AES for educational purposes](https://github.com/qsdaze01/aes_algorithm)
+- [Hand implementation of AES for educational purposes](https://github.com/qsdaze01/aes_algorithm)<br>
+- [Analog lab on Raspberry Pi Pico board](https://github.com/marius-hel/aes-cache-timing-attack-pico)<br>
 
 # Introduction
 This repository is an implementation of the attack described in *Cache-timing attacks on AES* by Daniel J. Bernstein. Most of the code used here comes from his work in this paper.
