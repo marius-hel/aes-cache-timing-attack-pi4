@@ -1,4 +1,9 @@
-# Authors
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/) 
+
+# Introduction
+This material was originally developed as part of an assignment of the Operating systems for embedded systems course delivered at Politecnico di Torino by Prof. Stefano Di Carlo.
+
+Authors:<br>
 [Thomas R.](https://github.com/thomasrPPS)<br>
 [Gaspard M.](https://github.com/qsdaze01)<br>
 [Marius H.](https://github.com/marius-hel)<br>
@@ -7,7 +12,7 @@
 - [Hand implementation of AES for educational purposes](https://github.com/qsdaze01/aes_algorithm)<br>
 - [Analog lab on Raspberry Pi Pico board](https://github.com/marius-hel/aes-cache-timing-attack-pico)<br>
 
-# Introduction
+# Description
 This repository is an implementation of the attack described in *Cache-timing attacks on AES* by Daniel J. Bernstein. Most of the code used here comes from his work in this paper.
 
 The goal of the experiment is to see the results of the attack developed by the author, on an 'embedded' board. (In the paper, the attack is performed against an Intel Pentium III). Here, the target will be a Raspberry Pi 4 with an ARMv8 processor.
